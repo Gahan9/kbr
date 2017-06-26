@@ -15,7 +15,7 @@ description="The Kasbr Wizard"}
 
 \f0\fs26 \cf0 \expnd0\expndtw0\kerning0
 name="Kasbr Wizard"\
-url="http://192.168.5.37:8000/Desktop/package/plugin.video.kasbr.zip"
+url="https://github.com/Gahan9/kbr/blob/master/plugin.video.kasbr.zip?raw=true"
 img="http://kasbr.com/skin/frontend/smartwave/porto/images/logo_white.png"\
 fanart="http://kasbr.com/skin/frontend/smartwave/porto/images/logo_white.png"\
 description="The Kasbr Wizard"}
